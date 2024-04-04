@@ -4,5 +4,5 @@ Este repositorio contiene algoritmos en C, cada uno en su propio archivo para fa
 
 ## Algoritmos incluidos
 
-- **Moneda:** Calcula la probabilidad de que al lanzar una moneda n veces, esta salga cara o cruz
+- **Moneda:** Este algoritmo simula el lanzamiento de una moneda n veces y calcula la probabilidad de que resulte cara o cruz.
 
